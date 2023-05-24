@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mambo-no5
+Upstream-Contact: Anthony Accioly
+Source: github.com/aaccioly-demos/mambo-no5
+
+Files: slides/*
+Copyright: 2023 Anthony Accioly
+License: CC-BY-SA-4.0
