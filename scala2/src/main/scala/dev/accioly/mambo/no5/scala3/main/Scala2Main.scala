@@ -1,9 +1,8 @@
-package dev.accioly.mambo.no5.scala2
+package dev.accioly.mambo.no5.scala3.main
 
-object App {
+object Scala2Main {
   def main(args: Array[String]): Unit = {
-    println(greeting())
-    println("abba".isPalindrome)
+    println("Hello, World! From Scala 2!")
   }
 
   def greeting(): String = "Hello, world!"

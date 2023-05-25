@@ -13,5 +13,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("dev.accioly.mambo.no5.java.App")
+    mainClass.set("dev.accioly.mambo.no5.java.main.JavaMain")
 }

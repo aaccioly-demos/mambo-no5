@@ -1,9 +1,9 @@
-package dev.accioly.mambo.no5.scala2
+package dev.accioly.mambo.no5.scala3.main
 
 // scala 3 main
 @main def hello(): Unit =
-  println("Hello world!")
-  println("Hello world!".isPalindrome)
+  println("Hello, World! From Scala 3!")
+//println("Hello world!".isPalindrome)
 
 // extend String class with isPalindrome method
 extension (s: String)

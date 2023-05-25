@@ -18,5 +18,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("dev.accioly.mambo.no5.scala3.App")
+    mainClass.set("dev.accioly.mambo.no5.scala3.main.hello")
 }
