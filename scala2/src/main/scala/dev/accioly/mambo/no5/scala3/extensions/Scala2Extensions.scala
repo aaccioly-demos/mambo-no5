@@ -2,7 +2,7 @@ package dev.accioly.mambo.no5.scala3.extensions
 
 object Scala2Extensions {
 
-  implicit class StringImprovements(s: String) {
+  implicit class StringImprovements(s: String)  {
     def isPalindrome: Boolean = s == s.reverse
   }
 
