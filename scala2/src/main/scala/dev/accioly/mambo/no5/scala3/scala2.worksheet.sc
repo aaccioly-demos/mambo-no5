@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 Anthony Accioly
+//
+// SPDX-License-Identifier: Apache-2.0
+
 println("Hello, World! Scala 2 in a worksheet!")
 
 // Fold left

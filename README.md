@@ -49,6 +49,8 @@ Copyright 2023 [Anthony Accioly][blog]
 
 [gradle-wrapper]: https://docs.gradle.org/current/userguide/gradle_wrapper.html
 
+[java-planet-enum]: java/src/main/java/dev/accioly/mambo/no5/java/enums/JavaPlanetEnum.java
+
 [readme]: README.md
 
 [slides]: slides

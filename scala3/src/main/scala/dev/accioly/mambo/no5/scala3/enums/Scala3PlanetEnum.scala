@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 Anthony Accioly
+//
+// SPDX-License-Identifier: Apache-2.0
+
 package dev.accioly.mambo.no5.scala3.enums
 
 // Source: https://docs.scala-lang.org/scala3/reference/enums/enums.html with small modifications

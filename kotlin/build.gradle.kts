@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 Anthony Accioly
+//
+// SPDX-License-Identifier: Apache-2.0
+
 plugins {
     // Apply the org.jetbrains.kotlin.jvm Plugin to add support for Kotlin.
     id("org.jetbrains.kotlin.jvm") version "1.8.21"

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 Anthony Accioly
+//
+// SPDX-License-Identifier: Apache-2.0
+
 plugins {
     // Apply the scala Plugin to add support for Scala.
     scala
