@@ -16,6 +16,10 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-script-runtime:1.8.21")
 }
 
+kotlin {
+    jvmToolchain(17)
+}
+
 application {
     // Define the main class for the application.
     mainClass.set("dev.accioly.mambo.no5.kotlin.main.KotlinMainKt")
