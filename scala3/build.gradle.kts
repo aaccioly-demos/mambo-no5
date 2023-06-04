@@ -16,8 +16,8 @@ repositories {
 }
 
 dependencies {
-    // Use Scala 3.2.2 in our library project
-    implementation("org.scala-lang:scala3-library_3:3.2.2")
+    // Use Scala 3.3.0 in our library project
+    implementation("org.scala-lang:scala3-library_3:3.3.0")
 }
 
 application {
