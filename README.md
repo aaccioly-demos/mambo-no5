@@ -8,12 +8,6 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 Slides and demo code for the Scala in the City Event @ 2023-05-25
 
-_Link to video coming soon._
-
-<!--
-[![YouTube Video](https://img.youtube.com/vi/SrtZk6Ot1OM/0.jpg)][youtube-video]
--->
-
 ## Build
 
 The examples requires JDK 17. It was built and tested with [Eclipse Temurin™][eclipse-temurin].
